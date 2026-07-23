@@ -40,3 +40,38 @@
 
 
 #### 人気バイアス
+
+
+<details>
+<summary>"Model-Agnostic Counterfactual Reasoning for Eliminating Popularity Bias in Recommender System"</summary>
+
+著者: Tianxin Wei, Fuli Feng, Jiawei Chen, Zuozhu Wu, Jinfeng Yi, Xiangnan He<br />
+発表場所: KDD<br />
+年度: 2021<br />
+内容: ユーザーの興味、人気への同調性、アイテムのグローバル人気度をマルチタスク学習で推定し、反実仮想推論によって人気度と同調性の直接効果を推薦スコアから抑制する、モデル非依存型の人気バイアス軽減手法を提案。
+
+</details>
+
+
+<details>
+<summary>"EquiRate: Balanced Rating Injection Approach for Popularity Bias Mitigation in Recommender Systems"</summary>
+
+著者: Mert Gulsoy, Emre Yalcin, Alper Bilge<br />
+発表場所: PeerJ Computer Science<br />
+年度: 2025<br />
+内容: テールアイテムに対して合成評価値を注入することで学習データのアイテム人気度分布を均衡化し、推薦モデル自体を変更せずに人気バイアスを軽減する前処理型手法 EquiRate を提案。
+
+</details>
+
+
+<details>
+<summary>"Disentangling User Interest and Conformity for Recommendation with Causal Embedding"</summary>
+
+著者: Yu Zheng, Chen Gao, Xiang Li, Xiangnan He, Depeng Jin, Yong Li<br />
+発表場所: WWW<br />
+年度: 2021<br />
+内容: 観測されたインタラクションをユーザーの興味と人気への同調性という二つの因果要因に分離し、正例・負例アイテム間の人気度差から原因別データを構成して、それぞれの埋め込みをマルチタスク・カリキュラム学習することで、ユーザーごとの同調傾向を反映した頑健かつ解釈可能な推薦を行う手法を提案。
+
+</details>
+
+
